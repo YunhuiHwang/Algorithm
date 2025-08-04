@@ -1,4 +1,4 @@
-package java.bj_2025_07;
+package java.bj_2025_08;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
